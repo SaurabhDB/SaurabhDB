@@ -3,7 +3,7 @@
 <!--
 **SaurabhDB/SaurabhDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-### Hi there, I'm Saurabh Dilip Bhadane - aka SaurabhDB👋
+### Hi there, I'm Saurabh D. Bhadane - aka SaurabhDB👋
 
 ## I'm a Software Developer, and an Electronics Engineer!
 
