@@ -5,8 +5,6 @@
 
 ## I'm a Software Developer, and an Electronics Engineer!
 
-- 🔭 I’m currently working on an AWS Serverless project.
-- 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and read.
 
